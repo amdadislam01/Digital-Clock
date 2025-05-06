@@ -20,3 +20,9 @@ A simple and elegant digital clock web application that displays the current tim
 - CSS3
 - JavaScript
 
+ ##  Contact 📧
+
+GitHub: amdadislam01
+
+Email: amdad20063@gmail.com
+
